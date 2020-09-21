@@ -13,6 +13,16 @@ body {
   color: #000000;
 }
 
+.show {
+  display: block;
+  transition: all 600ms;
+}
+
+.hide {
+  display: none;
+  transition: all 600ms;
+}
+
 .status {
   display: block;
   color: red;
