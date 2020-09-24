@@ -11,6 +11,10 @@ body {
   font-weight: 400;
   font-style: normal;
   color: #000000;
+  user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
 }
 
 .show {
